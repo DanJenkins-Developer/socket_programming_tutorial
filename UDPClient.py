@@ -1,6 +1,7 @@
 from socket import *
 # Using IP of my machine for testing.
 # IP = '10.161.78.120'
+# 127.0.0.1
 serverName = input(
     'Enter the Host Name or IP Address of the server you wish to connect to: ')
 serverPort = 12000
